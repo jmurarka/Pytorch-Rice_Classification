@@ -5,11 +5,6 @@ This project is a classification task that predicts the type of rice grain using
 
 ---
 
-## 🧠 Inspiration
-The core structure and approach used in this project are inspired by the [Ex_1_Tabular_Classification](./Ex_1_Tabular_Classification.ipynb) notebook, which demonstrated tabular data classification using PyTorch.
-
----
-
 ## 📦 Technologies Used
 
 - Python 🐍
