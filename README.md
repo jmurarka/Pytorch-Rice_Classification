@@ -49,10 +49,3 @@ This project is a classification task that predicts the type of rice grain using
    Evaluate the model’s performance on unseen data using accuracy.
 
 ---
-
-## 🧰 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
